@@ -1,0 +1,6 @@
+Hi all, it's Chris here.
+Ive created this initial MyFirstJavaProject folder which should include the first week
+of teaching for any individual wanting to get more advanced with Java!
+
+I have included extensive notations within the java files which provides some explanation
+into the logic of how to begin your java journey 
